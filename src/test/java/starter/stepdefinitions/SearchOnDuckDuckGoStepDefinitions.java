@@ -53,4 +53,5 @@ public class SearchOnDuckDuckGoStepDefinitions {
                         SearchResult.titles(), everyItem(containsIgnoringCase(term)))
         );
     }
+
 }
